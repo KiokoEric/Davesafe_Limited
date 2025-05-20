@@ -8,6 +8,7 @@ import Eye_Protection from "../../assets/Home_Page/Eye_Protection.jpg";
 import Ear_Protection from "../../assets/Home_Page/Ear_Protection.jpg";
 import Foot_Protection from "../../assets/Home_Page/Foot_Protection.jpeg";
 import Hand_Gloves from "../../assets/Home_Page/Protective_HandGloves.jpg";
+import Security_Uniform from "../../assets/Home_Page/Security_Uniform.png";
 import Protective_Clothing from "../../assets/Home_Page/Protective_Clothing.webp";
 import Respiratory_Protection from "../../assets/Home_Page/Respiratory_Protection.jpg";
 
@@ -78,6 +79,13 @@ return (
                 Image={ Protective_Clothing }
                 Width='600px'
                 NavigateText='Personal Protective Clothing'
+            />
+            <Figure
+                Navigation={'/SecurityUniform'}
+                ContainerStyle='cursor-pointer flex flex-col items-center gap-4'
+                Image={ Security_Uniform }
+                Width='250px'
+                NavigateText='Security Uniform'
             />
             <Figure
                 Navigation={'/SchoolClothing'}
