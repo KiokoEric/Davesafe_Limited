@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+    width: 0.8rem;
+}
+html::-webkit-scrollbar-thumb {
+    background-color: rgb(38, 111, 194) ;
+}
+html::-webkit-scrollbar-track {
+    background-color: black;
+}
+body {
+    font-family: 'Instrument Serif', serif;
+    font-size: 19px;
+    overflow-x: hidden;
+}
+#Home {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Home_Page/Home_Image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+#About {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Products_Image/Products_Image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Products {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Products_Image/Products_Image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Contact {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Contact_Page/Contact.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Face_Protection {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Face_Protection/Face_Protection.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Head_Gear {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Head_Gear/HeadGear.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Hearing_Protection {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Hearing_Protection/Hearing_Protection.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Respiratory_Protection {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Respiratory_Protection/Respiratory_Protection_Image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Hand_Gloves {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Hand_Gloves/Hand_Protection.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    height: 280px;
+    width: 100%;
+}
+#Foot_Wear {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Foot_Wear/Foot_Protection_Image.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+}
+#Protective_Clothing {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Protective_Clothing/Protective_Clothing_Image.webp);
+    background-position: center;
+    background-repeat: repeat;
+    height: 280px;
+    width: 100%;
+}
+#School_Apparel {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Apparel/Apparel.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 100%;
+}
+#Security_Uniform {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Security_Uniform/Security_Uniform.jpg);
+    background-position: top;
+    background-repeat: repeat;
+    height: 280px;
+    width: 100%;
+}
