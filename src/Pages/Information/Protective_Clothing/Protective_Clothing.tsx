@@ -2,11 +2,13 @@ import React from 'react';
 import Figure from '../../../Components/Common/Figure/Figure';
 import Heading from '../../../Components/Common/Heading/Heading';
 import Overall from "../../../assets/Protective_Clothing/Overalls.jpg";
+import Chef_Hat from "../../../assets/Protective_Clothing/Chef_Hat.jpg";
 import Rain_Coat from "../../../assets/Protective_Clothing/Rain_Coat.jpg";
 import PVC_Apron from "../../../assets/Protective_Clothing/PVC_Apron.webp";
 import Dust_Coat from "../../../assets/Protective_Clothing/Dust_Coats.png";
 import Spray_Suit from "../../../assets/Protective_Clothing/Spray_Suit.webp";
 import Eskimo_Suit from "../../../assets/Protective_Clothing/Eskimo_Suit.jpg";
+import Chef_Jacket from "../../../assets/Protective_Clothing/Chef_Jacket.jpg";
 import Reflector_Jacket from "../../../assets/Protective_Clothing/Reflector_Jackets.webp";
 
 const Protective_Clothing:React.FC = () => {
@@ -39,12 +41,6 @@ return (
             />
             <Figure
                 ContainerStyle='flex flex-col gap-4'
-                Image={ Reflector_Jacket }
-                Width='600px'
-                NavigateText='Reflector Jacket'
-            />
-            <Figure
-                ContainerStyle='flex flex-col gap-4'
                 Image={ Eskimo_Suit }
                 Width='600px'
                 NavigateText='Eskimo Overall'
@@ -60,6 +56,24 @@ return (
                 Image={ Spray_Suit }
                 Width='600px'
                 NavigateText='Spray Suit'
+            />
+            <Figure
+                ContainerStyle='flex flex-col gap-4'
+                Image={ Reflector_Jacket }
+                Width='600px'
+                NavigateText='Reflector Jacket'
+            />
+            <Figure
+                ContainerStyle='flex flex-col items-center gap-4'
+                Image={ Chef_Jacket }
+                Width='310px'
+                NavigateText='Chef Jacket'
+            />
+            <Figure
+                ContainerStyle='flex flex-col items-center gap-4'
+                Image={ Chef_Hat }
+                Width='600px'
+                NavigateText='Chef Hat'
             />
         </section>
     </div>
