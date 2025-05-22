@@ -13,7 +13,7 @@ The website application was built using React JS, Tailwind CSS and TypeScript.
   <h3 align="center" >Home Page</h3>
 
   <div align="center" >
-    <img  src="https://i.postimg.cc/jq7zWLzN/Davesafe-Limited-Home-Page.jpg"> 
+    <img  src="https://i.postimg.cc/ZKCXGH9N/Home-Page.jpg"> 
 
   </div>
 
@@ -28,7 +28,7 @@ The website application was built using React JS, Tailwind CSS and TypeScript.
   <h3 align="center" >About Page</h3>
 
   <div align="center" >
-    <img  src="https://i.postimg.cc/sXZZZNZy/Davesafe-Limited-About-Page.jpg"> 
+    <img  src="https://i.postimg.cc/k5dZtdTN/About-Page.jpg"> 
 
   </div>
 
@@ -41,7 +41,7 @@ The website application was built using React JS, Tailwind CSS and TypeScript.
   <h3 align="center" >Products Page</h3>
 
   <div align="center" >
-    <img  src="https://i.postimg.cc/brxDmSTB/Davesafe-Limited-Product-Page.jpg"> 
+    <img  src="https://i.postimg.cc/RFSDXL5N/Products-Page.jpg"> 
 
   </div>
 
@@ -55,7 +55,7 @@ The website application was built using React JS, Tailwind CSS and TypeScript.
 <h3 align="center" >Contact Page</h3>
 
   <div align="center">
-    <img  src="https://i.postimg.cc/SNGY88jX/Davesafe-Limited-Contact-Page.jpg"> 
+    <img  src="https://i.postimg.cc/XJsDhB4x/Contact-Page.jpg"> 
 
   </div>
 
